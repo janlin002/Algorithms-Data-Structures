@@ -31,5 +31,6 @@ module.exports = {
     'react/jsx-one-expression-per-line': 'off',
     'default-param-last': 'off',
     'no-plusplus': ['error', { allowForLoopAfterthoughts: true }],
+    'max-len': ['error', { code: 200 }],
   },
 }
