@@ -32,5 +32,6 @@ module.exports = {
     'default-param-last': 'off',
     'no-plusplus': ['error', { allowForLoopAfterthoughts: true }],
     'max-len': ['error', { code: 200 }],
+    'no-param-reassign': ['error'],
   },
 }
