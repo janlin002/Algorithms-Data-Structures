@@ -7,3 +7,5 @@
 ## 題型
 
 [Array](https://github.com/janlin002/Algorithms-Data-Structures/tree/master/src/Demo/Array)
+
+[Linked-List](https://github.com/janlin002/Algorithms-Data-Structures/tree/master/src/Demo/Linked-List)
