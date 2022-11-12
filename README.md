@@ -2,6 +2,12 @@
 
 # Algorithms & Data-Structures
 
+### 什麼是演算法
+
+[Notion](https://www.notion.so/a6ef5885818a45a285fb9e91f6879a7b)
+
+### Leetcode 
+
 [MY-LEETCODE_ACCOUNT](https://leetcode.com/123davidbill/)
 
 ## 題型
