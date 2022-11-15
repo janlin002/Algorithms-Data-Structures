@@ -4,12 +4,25 @@
 
 | 操作 | big O |
 | --- | --- |
+| Push|0(1)|
 | Search | O(n) |
 | Search (sorted array) | O(log(n)) |
 | Insert | O(n) |
 | Insert (at the end) | O(1) |
 | Remove | O(n) |
-| Remove (at the end) | O(1) |
+| Pop | O(1) |
+| Shift | O(n) |
+| Unshift | O(n) |
+| Splice |  O(n) |
+| Sort | 0(n log(n))|
+| Concat | 0(n)|
+| Splice | 0(n)|
+| IndexOf | 0(n)|
+| ForEach | 0(n)|
+| Map | 0(n)|
+| Filter | 0(n)|
+| Reduce|0(n)|
+
 
 
 ### 常用術語
