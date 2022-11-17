@@ -23,6 +23,8 @@
 | Filter | 0(n)|
 | Reduce|0(n)|
 
+[Time complexity Big 0 for Javascript Array methods](https://dev.to/lukocastillo/time-complexity-big-0-for-javascript-array-methods-and-examples-mlg)
+
 
 
 ### 常用術語
